@@ -7,7 +7,7 @@ This is the assignments and practice labs for my object-oriented programming cla
 1. [Review Basic Programming Labs](#Review-Basic-Programming-Labs)
 2. [Arrays and Strings](#Arrays-and-Strings)
 3. [Dynamic Arrays](#Dynamic-Arrays)
-4. [Recursive Functions](#Recursive-Functions)
+4. [Recursive Functions](#Recursive-Function)
 5. [Sorting Algorithms](#Sorting-Algorithms)
 6. [Try Catch Exception](#Try-Catch-Exception)
 7. [Object-Oriented Programming](#Object-Oriented-Programming)
